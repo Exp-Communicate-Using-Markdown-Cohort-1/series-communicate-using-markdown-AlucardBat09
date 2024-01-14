@@ -8,3 +8,6 @@
 console.log("Hello World");
 
 ```
+- [ ] Turn on Github pages
+- [x] Join Github Global Campus
+- [x] Download Bootstrap Studio
